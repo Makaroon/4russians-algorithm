@@ -13,7 +13,7 @@ Tests check the correctness of multiplication.
 Running tests
 
 ```sh
-mvn clean test
+mvn test
 ```
 Running the program with algorithm
 
